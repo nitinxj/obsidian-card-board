@@ -1,3 +1,5 @@
+> **Note:** This is a personal fork of [roovo/obsidian-card-board](https://github.com) updated for Obsidian 1.15+ compatibility (applying [PR #265](https://github.com/pull/265) and fixing case-sensitive Elm imports). Full credit for CardBoard goes to [roovo](https://github.com).
+
 # Obsidian CardBoard Plugin
 
 ![License](https://img.shields.io/github/license/roovo/obsidian-card-board)

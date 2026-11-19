@@ -1,6 +1,6 @@
 {
   "name": "cardboard",
-  "version": "0.7.9",
+  "version": "0.7.10",
   "description": "Card based view for your obsidian Tasks",
   "main": "main.js",
   "scripts": {
@@ -40,5 +40,9 @@
   },
   "dependencies": {
     "moment": "^2.29.4"
+  },
+  "allowScripts": {
+    "elm@0.19.1-6": true,
+    "elm-format@0.8.7": true
   }
 }
